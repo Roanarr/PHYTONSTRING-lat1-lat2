@@ -1,4 +1,4 @@
-# PHYTONSTRING
+# PHYTON STRING
 ## LATIHAN 1
 ## SOAL
 ![lat1](https://user-images.githubusercontent.com/118960008/209554111-9abb67f3-95ee-4903-a739-974185e8187a.png)
