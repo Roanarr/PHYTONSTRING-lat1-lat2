@@ -17,4 +17,5 @@
 
 
 ## LATIHAN 2
+## SOAL
 ![lat2](https://user-images.githubusercontent.com/118960008/209554142-396baba9-c9ce-4dfb-9846-80b597498c2c.png)
